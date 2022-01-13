@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vinam Tuteja
 - 👀 I’m interested in full stack web development.
 - 🌱 I’m currently learning Typescript, Next.js GraphQL and more.
-- 💞️ I’m seeking a junior developer role at a company where I can learn and grow long term. 
+- 💞️ I’m seeking a software developer role at a company where I can learn and grow long term. 
 - 📫 You can reach me at hello@vinamtuteja.com for any questions.
 
 <!---
